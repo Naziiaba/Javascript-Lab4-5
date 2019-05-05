@@ -1,1 +1,1 @@
-# Javascript-Lab4-5
+# JavaScript-Lab4-5
